@@ -367,5 +367,3 @@ notepad C:\ProgramData\Amazon\AmazonCloudWatchAgent\config.json
 ---
 
 
-
-That’s where your project becomes **interview-ready**.
